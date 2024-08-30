@@ -6,5 +6,4 @@ author:
 description: "Welcome to my Portfolio"
 
 # Build settings
-remote_theme: jekyll/merlot
-
+remote_theme: jekyll/minima
