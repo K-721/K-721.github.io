@@ -5,7 +5,7 @@ Welcome to my Portfolio!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-721&label=Profile%20views&color=0e75b6&style=flat" alt="k-721" /> </p>
 
-- 🔭 I’m currently working as **a freelance data analyst**
+- 🔭 I’m currently working as **a Control Systems Engineer**
 
 - 🌱 I’m currently learning **data engineering,**
 
